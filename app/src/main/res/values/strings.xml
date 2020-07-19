@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tenakata University App</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="tenakata_university">Tenakata University</string>
+    <string name="your_career_our_priority">\'Your Career Our Priority\'</string>
+    <string name="login">LOGIN</string>
+    <string name="signup"><u>SignUp</u></string>
+
+</resources>
