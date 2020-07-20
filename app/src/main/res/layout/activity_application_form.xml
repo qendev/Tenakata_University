@@ -28,10 +28,11 @@
                 app:layout_constraintEnd_toEndOf="parent">
 
                 <ImageView
-                    android:id="@+id/addphoto"
+                    android:id="@+id/imageView_addphoto"
                     android:layout_width="80dp"
                     android:layout_height="80dp"
                     android:padding="16dp"
+                    android:scaleType="centerCrop"
                     android:layout_alignParentLeft="true"
                     android:background="@drawable/logo_square_background"
                     android:src="@drawable/ic_addphoto"/>
@@ -42,7 +43,7 @@
                     android:text="Add Photo"
                     android:layout_centerHorizontal="true"
                     android:textColor="@color/textColor_white"
-                    android:layout_below="@id/addphoto"
+                    android:layout_below="@id/imageView_addphoto"
                     android:fontFamily="@font/montserratmedium"
                     android:textStyle="bold"/>
 

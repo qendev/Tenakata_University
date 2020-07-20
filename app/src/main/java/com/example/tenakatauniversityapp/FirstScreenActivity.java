@@ -19,7 +19,7 @@ public class FirstScreenActivity extends AppCompatActivity {
         setContentView(R.layout.activity_first_screen);
 
 
-        //referencing the necesarry View by their specific ids.
+        //initialise the necesarry Views by their specific ids.
         loginbutton = findViewById(R.id.button_login);
         signUptextView = findViewById(R.id.textView_signup);
 
